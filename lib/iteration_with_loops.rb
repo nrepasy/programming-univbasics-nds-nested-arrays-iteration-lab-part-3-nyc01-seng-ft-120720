@@ -15,5 +15,10 @@ mixed_data_1.each do |items|
   end
 end
 
+<<<<<<< HEAD
 p words.join(" " )
  end
+=======
+words.join
+end
+>>>>>>> 95dc1cd33edbbeda2dfa7f8e553e5d8692f3ba4f
